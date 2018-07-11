@@ -12,6 +12,7 @@ int main()
 
     MEDIA = (2*A + 3*B + 5*C) / 10;
 
+	//calcula a media aritimetica dos valores
     printf( "MEDIA = %.1f\n" , MEDIA);
 	
     return 0;
